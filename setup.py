@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name                = 'flwr_custom',
-    version             = '0.1',
+    version             = '0.1.2',
     description         = 'custom flwr 1.4.0 for fl viewer',
     author              = 'ymkoh',
     author_email        = 'musicboy9@snu.ac.kr',
