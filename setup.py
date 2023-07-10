@@ -10,7 +10,7 @@ setup(
     download_url        = 'https://github.com/jeakwon/ccpy/archive/0.0.tar.gz',
     install_requires    =  [],
     packages            = find_packages(exclude = []),
-    keywords            = ['ccpy'],
+    keywords            = ['flwr_custom'],
     python_requires     = '>=3',
     package_data        = {},
     zip_safe            = False,
