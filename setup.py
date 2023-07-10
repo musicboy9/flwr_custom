@@ -6,8 +6,8 @@ setup(
     description         = 'custom flwr 1.4.0 for fl viewer',
     author              = 'ymkoh',
     author_email        = 'musicboy9@snu.ac.kr',
-    url                 = 'https://github.com/jeakwon/ccpy',
-    download_url        = 'https://github.com/jeakwon/ccpy/archive/0.0.tar.gz',
+    url                 = 'https://github.com/musicboy9/flwr_custom',
+    download_url        = 'https://github.com/musicboy9/flwr_custom/archive/refs/heads/feature/1-AddLibrary.zip',
     install_requires    =  [],
     packages            = find_packages(exclude = []),
     keywords            = ['flwr_custom'],
@@ -22,5 +22,7 @@ setup(
         'Programming Language :: Python :: 3.5',
         'Programming Language :: Python :: 3.6',
         'Programming Language :: Python :: 3.7',
+        'Programming Language :: Python :: 3.8',
+        'Programming Language :: Python :: 3.9',
     ],
 )
