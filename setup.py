@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name                = 'flwr_custom',
-    version             = '0.1.2',
+    name                = 'flwr',
+    version             = '1.4.0',
     description         = 'custom flwr 1.4.0 for fl viewer',
     author              = 'ymkoh',
     author_email        = 'musicboy9@snu.ac.kr',
@@ -10,7 +10,7 @@ setup(
     download_url        = 'https://github.com/musicboy9/flwr_custom/archive/refs/heads/feature/1-AddLibrary.zip',
     install_requires    =  [],
     packages            = find_packages(exclude = []),
-    keywords            = ['flwr_custom'],
+    keywords            = ['flwr'],
     python_requires     = '>=3',
     package_data        = {},
     zip_safe            = False,
